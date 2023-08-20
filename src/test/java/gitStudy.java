@@ -15,6 +15,6 @@ public class gitStudy {
 
         System.out.println("pull study1");
 
-        System.out.println("master study1");
+        System.out.println("master study1314");
     }
 }
