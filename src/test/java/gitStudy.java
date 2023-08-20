@@ -5,5 +5,6 @@ public class gitStudy {
         System.out.println("学习3");
 
         System.out.println("branch 学习1");
+        System.out.println("branch 学习2");
     }
 }
