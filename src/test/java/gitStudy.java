@@ -7,5 +7,6 @@ public class gitStudy {
         System.out.println("branch 学习1");
         System.out.println("master 学习4");
 
+        System.out.println("branch 学习2");
     }
 }
