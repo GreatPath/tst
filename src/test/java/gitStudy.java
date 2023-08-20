@@ -12,5 +12,7 @@ public class gitStudy {
         System.out.println("push study1");
 
         System.out.println("push study2");
+
+        System.out.println("pull study1");
     }
 }
