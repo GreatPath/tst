@@ -10,5 +10,7 @@ public class gitStudy {
         System.out.println("branch 学习2");
 
         System.out.println("push study1");
+
+        System.out.println("push study2");
     }
 }
