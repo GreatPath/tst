@@ -8,5 +8,7 @@ public class gitStudy {
         System.out.println("master 学习4");
 
         System.out.println("branch 学习2");
+
+        System.out.println("push study1");
     }
 }
